@@ -23,7 +23,7 @@ function runProgram(input) {
 }
 if (process.env.USERNAME === "naveed") {
   runProgram(`2
-  abcd
+  abcdn
   dcab
   aa
   aaa`);
