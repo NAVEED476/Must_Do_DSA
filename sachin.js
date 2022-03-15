@@ -1,5 +1,15 @@
 
-
+function compare_runs(other,runs){
+    if(other == runs){
+        console.log("Wao")
+    }
+    else if(other>runs){
+        console.log("Not Yet")
+    }
+    else{
+        console.log("Broken")
+    }
+}
 
 
 
@@ -7,7 +17,8 @@ function runProgram(input) {
     
           input  = input.split("\n")
           let [other,sachin] =  input[0].trim().split(" ").map(Number)
-          console.log(other,sachin)
+          //console.log(other,sachin)
+          console.log(compare_runs(other,sachin))
 }
 if (process.env.USERNAME === "naveed") {
   runProgram(`264 200`);
