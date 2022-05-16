@@ -1,32 +1,34 @@
 
-
+function product(arr1,arr2){
+    let mul=1
+    for(var i=0;i<arr1.length;i++){
+        mul*=arr1[i]
+    }
+    for(var j=0;j<arr2.length;j++){
+        mul*=arr2[j]
+    }
+    console.log(mul)
+}
 
 
 function runProgram(input) {
-
     
           input  = input.split("\n")
-          let test = +input[0].trim()
-          let line =1;
+          let test = +input[0]
+          let line=1;
           for(var i=0;i<test;i++){
-              let str1 = input[line++].trim().split(" ").sort()
-              console.log(line)
-              let str2 = input[line++].trim().split(" ").sort()
-                console.log(line)
-              if(str1.join(" ") === str2.join(" ")){
-                  console.log("True")
-              }
-              else{
-                  console.log("False")
-              }
+              let size =   input[line++].trim().split(" ").map(Number)
+              let arr1 =   input[line++].trim().split(" ").map(Number)
+              let arr2 =   input[line++].trim().split(" ").map(Number)
+              product(arr1,arr2)
           }
+
 }
 if (process.env.USERNAME === "naveed") {
-  runProgram(`2
-  abcd
-  dcab
-  aa
-  aaa`);
+  runProgram(`1
+  3
+  1 2 3
+  2 3 1`);
 } else {
   process.stdin.resume();
   process.stdin.setEncoding("ascii");
@@ -45,6 +47,3 @@ if (process.env.USERNAME === "naveed") {
     process.exit(0) ;
   });
 }
-
-
-
