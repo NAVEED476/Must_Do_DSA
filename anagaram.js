@@ -1,25 +1,18 @@
-
-
-
-
 function runProgram(input) {
-
-    
-          input  = input.split("\n")
-          let test = +input[0].trim()
-          let line =1;
-          for(var i=0;i<test;i++){
-              let str1 = input[line++].trim().split(" ").sort()
-              console.log(line)
-              let str2 = input[line++].trim().split(" ").sort()
-                console.log(line)
-              if(str1.join(" ") === str2.join(" ")){
-                  console.log("True")
-              }
-              else{
-                  console.log("False")
-              }
-          }
+  input = input.split("\n");
+  let test = +input[0].trim();
+  let line = 1;
+  for (var i = 0; i < test; i++) {
+    let str1 = input[line++].trim().split(" ").sort();
+    console.log(line);
+    let str2 = input[line++].trim().split(" ").sort();
+    console.log(line);
+    if (str1.join(" ") === str2.join(" ")) {
+      console.log("True");
+    } else {
+      console.log("False");
+    }
+  }
 }
 if (process.env.USERNAME === "naveed") {
   runProgram(`2
@@ -42,9 +35,6 @@ if (process.env.USERNAME === "naveed") {
   process.on("SIGINT", function () {
     read = read.replace(/\n$/, "");
     runProgram(read);
-    process.exit(0) ;
+    process.exit(0);
   });
 }
-
-
-

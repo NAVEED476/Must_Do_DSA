@@ -1,30 +1,21 @@
 
-let calculator = (a,b,c)=>{
-    if(b=="+"){
-        return (a+c)
-    }
-    if(b=="*"){
-        return (a*c)
-    }
-    if(b=="-"){
-        return (a-c)
+function factorial(x) {
 
-    }
-    if(b=="/") return (a/c)
+
+  if (x == 0) {
+      return 1;
+  }
+
+  else {
+      return x * factorial(x - 1);
+  }
 }
-
-
 function runProgram(input) {
-    
-          input  = input.split("\n")
-          let [a,b,c] =   input[0].trim().split(" ")
-          //console.log(a,b,c)
-
-          console.log(calculator(Number(a),b,Number(c)))
+  console.log(factorial(input))
 
 }
-if (process.env.USERNAME === "naveed") {
-  runProgram(`2 + 3`);
+if (process.env.USERNAME === "HP") {
+  runProgram(`5`);
 } else {
   process.stdin.resume();
   process.stdin.setEncoding("ascii");
