@@ -1,0 +1,41 @@
+
+#### **Basic Object Questions:**
+
+1. **What is an object in JavaScript?**
+2. **How do you create an object in JavaScript?**
+3. **What are the different ways to access object properties?**
+4. **What is the difference between dot notation and bracket notation?**
+5. **How do you add and remove properties from an object?**
+6. **What is `this` in the context of an object?**
+7. **How do you check if an object is empty?**
+8. **What are methods in JavaScript objects?**
+9. **How do you clone an object in JavaScript?**
+10. **What is the `Object.keys()`, `Object.values()`, and `Object.entries()` methods?**
+
+#### **Intermediate Object Questions:**
+
+1. **How do you merge two objects?**
+2. **What is the difference between shallow copy and deep copy of an object?**
+3. **How do you iterate over the properties of an object?**
+4. **What are getters and setters in JavaScript?**
+5. **How do you check if a property exists in an object?**
+6. **What is the prototype chain in JavaScript?**
+7. **What are the different ways to create an object in JavaScript?**
+8. **How do you prevent an object from being modified (immutable)?**
+9. **How do you use `Object.freeze()`, `Object.seal()`, and `Object.preventExtensions()`?**
+10. **How do you create a constructor function in JavaScript?**
+
+#### **Advanced Object Questions:**
+
+1. **How do you create and use a prototype-based inheritance in JavaScript?**
+2. **What are symbols in JavaScript, and how do they relate to objects?**
+3. **How do you implement a factory function to create objects?**
+4. **How can you create a singleton object in JavaScript?**
+5. **How do you implement method chaining in an object?**
+6. **What is the `instanceof` operator, and how does it work?**
+7. **How do you extend an object with additional properties and methods?**
+8. **What are the differences between `Object.create()` and constructor functions?**
+9. **How do you implement encapsulation in JavaScript objects?**
+10. **How do you create an object that can have dynamic keys?**
+
+---

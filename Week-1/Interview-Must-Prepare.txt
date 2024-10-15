@@ -1,5 +1,5 @@
 
-### **1. Arrays**
+! 1. Arrays
 
 **Basic:**
 1. How do you find the maximum and minimum elements in an array?
@@ -21,8 +21,11 @@
 3. How do you find the median of two sorted arrays?
 4. How do you implement an array-based dynamic array?
 5. How do you solve the longest increasing subsequence problem?
+6. How do you implement a sparse array?
+7. How do you solve the "next permutation" problem?
+8. How do you implement a circular buffer using an array?
 
-### **2. Strings**
+### 2. Strings
 
 **Basic:**
 1. How do you reverse a string?
@@ -44,8 +47,10 @@
 3. How do you find all substrings of a string?
 4. How do you perform substring search using the KMP algorithm?
 5. How do you implement the Rabin-Karp algorithm for pattern matching?
+6. How do you implement the Manacher's algorithm for finding the longest palindromic substring?
+7. How do you solve the "minimum window substring" problem?
 
-### **3. Linked Lists**
+### 3. Linked Lists
 
 **Basic:**
 1. How do you reverse a linked list?
@@ -67,8 +72,10 @@
 3. How do you reverse a linked list in groups of K?
 4. How do you implement a doubly linked list?
 5. How do you solve the problem of adding two numbers represented by linked lists?
+6. How do you implement a skip list?
+7. How do you sort a linked list using merge sort?
 
-### **4. Trees**
+### 4. Trees
 
 **Basic:**
 1. How do you traverse a binary tree (preorder, inorder, postorder)?
@@ -90,8 +97,11 @@
 3. How do you solve the "vertical order traversal" of a binary tree?
 4. How do you find the maximum path sum in a binary tree?
 5. How do you implement a trie for storing strings?
+6. How do you implement a Red-Black tree?
+7. How do you implement an AVL tree?
+8. How do you solve the "binary tree maximum path sum" problem?
 
-### **5. Graphs**
+### 5. Graphs
 
 **Basic:**
 1. How do you represent a graph using an adjacency matrix and adjacency list?
@@ -113,8 +123,10 @@
 3. How do you solve the "maximum flow" problem using the Ford-Fulkerson method?
 4. How do you implement A* search algorithm?
 5. How do you solve the "traveling salesman problem"?
+6. How do you implement the Floyd-Warshall algorithm for all-pairs shortest paths?
+7. How do you solve the "alien dictionary" problem using topological sort?
 
-### **6. Dynamic Programming**
+### 6. Dynamic Programming
 
 **Basic:**
 1. What is dynamic programming, and how does it differ from recursion?
@@ -136,3 +148,62 @@
 3. How do you solve the "partition equal subset sum" problem?
 4. How do you find the longest increasing subsequence in an array?
 5. How do you implement dynamic programming for matrix chain multiplication?
+6. How do you solve the "palindrome partitioning" problem?
+7. How do you implement dynamic programming for the "egg dropping puzzle"?
+
+### 7. Heap/Priority Queue
+
+**Basic:**
+1. How do you implement a min-heap and max-heap?
+2. How do you perform heap insertion and deletion?
+3. How do you convert an array into a heap?
+
+**Intermediate:**
+1. How do you implement a priority queue using a heap?
+2. How do you find the k-th largest element in an array using a heap?
+
+**Advanced:**
+1. How do you implement a median heap?
+2. How do you solve the "merge k sorted lists" problem using a heap?
+
+### 8. Hash Tables
+
+**Basic:**
+1. How do you implement a hash table from scratch?
+2. How do you handle collisions in a hash table?
+
+**Intermediate:**
+1. How do you implement a LRU (Least Recently Used) cache?
+2. How do you find the first non-repeating character in a stream of characters?
+
+**Advanced:**
+1. How do you implement a concurrent hash map?
+2. How do you design a data structure for a time-based key-value store?
+
+### 9. Bit Manipulation
+
+**Basic:**
+1. How do you count the number of set bits in an integer?
+2. How do you check if a number is a power of 2?
+
+**Intermediate:**
+1. How do you find the single number in an array where every element appears twice except for one?
+2. How do you swap two numbers without using a temporary variable?
+
+**Advanced:**
+1. How do you implement fast multiplication or division by 2?
+2. How do you solve the "maximum XOR of two numbers in an array" problem?
+
+### 10. Recursion and Backtracking
+
+**Basic:**
+1. How do you implement factorial using recursion?
+2. How do you solve the Tower of Hanoi problem?
+
+**Intermediate:**
+1. How do you generate all permutations of a string?
+2. How do you solve the N-Queens problem?
+
+**Advanced:**
+1. How do you solve the Sudoku puzzle using backtracking?
+2. How do you implement a recursive solution for the "word search" problem?
