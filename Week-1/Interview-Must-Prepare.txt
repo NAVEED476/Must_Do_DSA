@@ -1,0 +1,138 @@
+
+### **1. Arrays**
+
+**Basic:**
+1. How do you find the maximum and minimum elements in an array?
+2. How do you reverse an array in place?
+3. How do you check if an array contains duplicate elements?
+4. How do you rotate an array?
+5. How do you merge two sorted arrays?
+
+**Intermediate:**
+1. How do you find the intersection of two arrays?
+2. How do you implement a two-sum problem?
+3. How do you find the longest subarray with at most K distinct elements?
+4. How do you move zeroes to the end of an array while maintaining the order of non-zero elements?
+5. How do you find the largest sum contiguous subarray (Kadane's Algorithm)?
+
+**Advanced:**
+1. How do you find all unique triplets in an array that sum to zero?
+2. How do you solve the maximum product subarray problem?
+3. How do you find the median of two sorted arrays?
+4. How do you implement an array-based dynamic array?
+5. How do you solve the longest increasing subsequence problem?
+
+### **2. Strings**
+
+**Basic:**
+1. How do you reverse a string?
+2. How do you check if two strings are anagrams?
+3. How do you find the first non-repeating character in a string?
+4. How do you count the occurrences of each character in a string?
+5. How do you check if a string is a palindrome?
+
+**Intermediate:**
+1. How do you implement string compression?
+2. How do you find the longest substring without repeating characters?
+3. How do you check if a string has all unique characters?
+4. How do you perform basic string manipulation using regular expressions?
+5. How do you find the longest common prefix among an array of strings?
+
+**Advanced:**
+1. How do you implement a trie (prefix tree) for string searching?
+2. How do you solve the longest palindromic substring problem?
+3. How do you find all substrings of a string?
+4. How do you perform substring search using the KMP algorithm?
+5. How do you implement the Rabin-Karp algorithm for pattern matching?
+
+### **3. Linked Lists**
+
+**Basic:**
+1. How do you reverse a linked list?
+2. How do you detect a cycle in a linked list?
+3. How do you find the middle element of a linked list?
+4. How do you remove the N-th node from the end of a linked list?
+5. How do you merge two sorted linked lists?
+
+**Intermediate:**
+1. How do you check if a linked list is a palindrome?
+2. How do you find the intersection point of two linked lists?
+3. How do you split a linked list into two halves?
+4. How do you remove duplicates from a linked list?
+5. How do you implement a linked list using an array?
+
+**Advanced:**
+1. How do you flatten a nested linked list?
+2. How do you rotate a linked list?
+3. How do you reverse a linked list in groups of K?
+4. How do you implement a doubly linked list?
+5. How do you solve the problem of adding two numbers represented by linked lists?
+
+### **4. Trees**
+
+**Basic:**
+1. How do you traverse a binary tree (preorder, inorder, postorder)?
+2. How do you find the height of a binary tree?
+3. How do you determine if a binary tree is balanced?
+4. How do you check if a binary tree is a binary search tree (BST)?
+5. How do you count the number of leaf nodes in a binary tree?
+
+**Intermediate:**
+1. How do you find the lowest common ancestor of two nodes in a binary tree?
+2. How do you convert a sorted array to a balanced binary search tree?
+3. How do you perform a level-order traversal of a binary tree?
+4. How do you find the diameter of a binary tree?
+5. How do you serialize and deserialize a binary tree?
+
+**Advanced:**
+1. How do you implement a segment tree?
+2. How do you perform range queries on a binary search tree?
+3. How do you solve the "vertical order traversal" of a binary tree?
+4. How do you find the maximum path sum in a binary tree?
+5. How do you implement a trie for storing strings?
+
+### **5. Graphs**
+
+**Basic:**
+1. How do you represent a graph using an adjacency matrix and adjacency list?
+2. How do you perform depth-first search (DFS) on a graph?
+3. How do you perform breadth-first search (BFS) on a graph?
+4. How do you check if a graph is connected?
+5. How do you find the shortest path in an unweighted graph?
+
+**Intermediate:**
+1. How do you detect cycles in a directed graph?
+2. How do you implement Dijkstra's algorithm for shortest paths?
+3. How do you solve the "minimum spanning tree" problem using Prim's or Kruskal's algorithm?
+4. How do you find the topological sorting of a directed acyclic graph (DAG)?
+5. How do you solve the "flood fill" problem?
+
+**Advanced:**
+1. How do you implement the Bellman-Ford algorithm for shortest paths?
+2. How do you find strongly connected components in a directed graph using Tarjan's or Kosaraju's algorithm?
+3. How do you solve the "maximum flow" problem using the Ford-Fulkerson method?
+4. How do you implement A* search algorithm?
+5. How do you solve the "traveling salesman problem"?
+
+### **6. Dynamic Programming**
+
+**Basic:**
+1. What is dynamic programming, and how does it differ from recursion?
+2. How do you solve the Fibonacci sequence problem using dynamic programming?
+3. How do you find the minimum cost path in a grid?
+4. How do you solve the coin change problem?
+5. How do you find the longest common subsequence of two strings?
+
+**Intermediate:**
+1. How do you solve the knapsack problem?
+2. How do you find the number of unique paths in a grid?
+3. How do you solve the maximum subarray sum problem using dynamic programming?
+4. How do you implement memoization in dynamic programming?
+5. How do you find the maximum product of two integers from an array?
+
+**Advanced:**
+1. How do you solve the "word break" problem?
+2. How do you find the minimum edit distance between two strings?
+3. How do you solve the "partition equal subset sum" problem?
+4. How do you find the longest increasing subsequence in an array?
+5. How do you implement dynamic programming for matrix chain multiplication?

@@ -1,0 +1,62 @@
+
+
+### **Very Basic Level String Questions:**
+
+1. **What is a string in programming?**
+2. **How do you create a string in JavaScript?**
+3. **What are the different ways to declare a string?**
+4. **How do you access a character in a string?**
+5. **What is the length property of a string?**
+6. **How do you convert a number to a string?**
+7. **How do you concatenate two strings?**
+8. **What is string interpolation?**
+9. **How do you convert a string to lowercase and uppercase?**
+10. **What is the difference between single quotes, double quotes, and backticks in strings?**
+
+---
+
+### **Basic Level String Questions:**
+
+1. **How do you find the index of a character or substring in a string?**
+2. **What is the `charAt()` method, and how does it work?**
+3. **How do you check if a string contains a specific substring?**
+4. **What is the `trim()` method, and when would you use it?**
+5. **How do you split a string into an array?**
+6. **What is the purpose of the `replace()` method?**
+7. **How do you check if two strings are equal?**
+8. **What is the difference between `==` and `===` when comparing strings?**
+9. **How can you repeat a string multiple times?**
+10. **What are template literals, and how do you use them with strings?**
+
+---
+
+### **Intermediate Level String Questions:**
+
+1. **How do you find the last occurrence of a character or substring in a string?**
+2. **What is the `substring()` method, and how does it differ from `substr()` and `slice()`?**
+3. **How can you reverse a string?**
+4. **What are regular expressions, and how are they used in string manipulation?**
+5. **How do you extract digits or specific patterns from a string using regular expressions?**
+6. **How can you convert a string to an array of words?**
+7. **What is string immutability, and why is it important?**
+8. **How do you perform case-insensitive string comparisons?**
+9. **What is the `localeCompare()` method, and when would you use it?**
+10. **How can you check if a string is a palindrome?**
+
+---
+
+### **Advanced Level String Questions:**
+
+1. **How do you implement string search algorithms (e.g., Knuth-Morris-Pratt or Boyer-Moore)?**
+2. **How do you handle Unicode characters in strings?**
+3. **What is the purpose of the `String` constructor?**
+4. **How do you perform string normalization?**
+5. **What are the performance considerations when manipulating large strings?**
+6. **How can you optimize the performance of string concatenation in JavaScript?**
+7. **How do you replace all occurrences of a substring in a string?**
+8. **What are the advantages of using `String.prototype.split()` with a regular expression?**
+9. **How do you handle string encoding and decoding (e.g., Base64)?**
+10. **What is the difference between `String.prototype.valueOf()` and `toString()` methods?**
+
+---
+
