@@ -1,7 +1,6 @@
 ### Detect if a number is prime - Editorial
 
 ### Difficulty: Easy
-
 ### Prerequisite: Maths.
 ---
 ### Hint
